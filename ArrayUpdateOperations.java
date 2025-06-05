@@ -32,10 +32,7 @@ public class ArrayUpdateOperations {
 			}
 		}
 		
-		scanner.close();
-
-		
-		
+		scanner.close();	
 		
     }
 }
